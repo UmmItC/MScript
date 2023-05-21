@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS SME MScript", "CS SME MScript.csproj", "{6CCA5279-749E-433C-B760-7DAD32971DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCA5279-749E-433C-B760-7DAD32971DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCA5279-749E-433C-B760-7DAD32971DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCA5279-749E-433C-B760-7DAD32971DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCA5279-749E-433C-B760-7DAD32971DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43431887-2834-4F85-8765-4FBFC4F036D5}
+	EndGlobalSection
+EndGlobal
